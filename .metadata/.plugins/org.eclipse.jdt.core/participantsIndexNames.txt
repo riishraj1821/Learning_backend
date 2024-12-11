@@ -1,0 +1,11 @@
+INDEX VERSION 1.134
+D:\Learning-Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3200147867.index
+\JSP Declarations\src\main\java
+D:\Learning-Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3876136538.index
+\JSP Comments\src\main\java
+D:\Learning-Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4282525101.index
+\JSP Scripting element\src\main\java
+D:\Learning-Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\890721391.index
+\Include files in JSP page\src\main\java
+D:\Learning-Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3843746929.index
+\Hello JSP\src\main\java
